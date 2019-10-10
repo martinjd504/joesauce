@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+<style>
+.uploaded {
+width: 100px;
+}
+</style>
+</head>
+
+<body>
+<img src="sauce1.jpg" class="uploaded">
+</body>
+</html>
