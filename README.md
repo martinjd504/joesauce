@@ -1,11 +1,12 @@
+
+
+<head>
+  <h1>Memes</h1> 
   <style>
     .posted-image{
     width: 100px;
     } 
 </style>
-
-<head>
-  <h1>Memes</h1>
 </head> 
 <body>
 
